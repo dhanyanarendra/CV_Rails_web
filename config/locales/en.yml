@@ -1,0 +1,12 @@
+en:
+  api:
+    authentication_success: "You have successfully authenticated"
+    authentication_failure: "Authentication Failure"
+    unexpected_failure: "Unexpected Failure"
+    reset_password_email_success: "The reset password instructions will be sent to this email"
+    reset_password_email_failure: "The email address you entered could not be found. Please try again"
+  password:
+    update: "Password updated successfully"
+    update_failed: "Couldn't save the password. Kindly look at the errors"
+    expire: "Password reset has expired"
+    not_found: "The email address you entered could not be found. Please try again"
